@@ -1,0 +1,10 @@
+<!-- مثال شريط قوائم RTL -->
+<nav style="direction: rtl;">
+  <ul style="display: flex; list-style: none; padding: 0; margin: 0;">
+    <li style="margin-left: 20px;">ملف</li>
+    <li style="margin-left: 20px;">تحرير</li>
+    <li style="margin-left: 20px;">عرض</li>
+    <li style="margin-left: 20px;">انتقال</li>
+    <li style="margin-left: 20px;">مساعدة</li>
+  </ul>
+</nav>
